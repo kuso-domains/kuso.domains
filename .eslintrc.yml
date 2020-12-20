@@ -1,0 +1,23 @@
+env:
+  es2020: true
+  browser: true
+  node: true
+extends:
+  - "eslint:recommended"
+  - "plugin:react/recommended"
+  - "plugin:@typescript-eslint/eslint-recommended"
+  - "prettier/@typescript-eslint"
+parser: "@typescript-eslint/parser"
+plugins:
+  - "@typescript-eslint"
+  - "react-hooks"
+parserOptions:
+  sourceType: module
+settings:
+  react:
+    version: detect
+rules:
+  no-unused-vars: "off"
+  react/prop-types: "off"
+  react-hooks/rules-of-hooks: "error"
+  react-hooks/exhaustive-deps: "warn"

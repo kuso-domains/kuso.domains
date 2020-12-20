@@ -3,12 +3,13 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'DIN Alternate Bold';
+  font-family: "DIN Alternate Bold";
   font-style: normal;
   font-weight: normal;
-  src: local('DIN Alternate Bold'), url('../public/DINAlternate-Bold.woff') format('woff');
+  src: local("DIN Alternate Bold"),
+    url("../public/DINAlternate-Bold.woff") format("woff");
 }
 
 .font-din {
-  font-family: 'DIN Alternate Bold', sans-serif;
+  font-family: "DIN Alternate Bold", sans-serif;
 }

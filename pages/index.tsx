@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import { MusicPlayer } from "../components/MusicPlayer";
 
 const KUSO_DOMAINS = [
   "gexiv.net",
@@ -43,6 +44,7 @@ function HomePage() {
           </div>
         </div>
       </div>
+      <MusicPlayer />
     </>
   );
 }

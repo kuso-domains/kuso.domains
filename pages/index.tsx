@@ -19,7 +19,7 @@ function HomePage() {
         <title>kuso.domains</title>
       </Head>
       <div className="font-din">
-        <div className="h-screen w-screen">
+        <div className="h-screen w-screen max-w-full">
           <div className="w-full h-full bg-gray-900 flex justify-center items-center fixed">
             <h1 className="text-gray-50 text-6xl md:text-8xl lg:text-9xl">
               <a href="https://kuso.domains">kuso.domains</a>

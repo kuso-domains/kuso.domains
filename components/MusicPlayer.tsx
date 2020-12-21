@@ -93,11 +93,17 @@ export const MusicPlayer = () => {
   return (
     <div className="w-full h-16 px-2 bg-gray-200 border-t border-black border-opacity-10 fixed bottom-0 flex items-center">
       {isPlaying ? (
-        <button className="w-12 h-12 flex-none text-gray-600 focus:outline-none" onClick={handlePause}>
+        <button
+          className="w-12 h-12 flex-none text-gray-600 focus:outline-none"
+          onClick={handlePause}
+        >
           <PauseIcon />
         </button>
       ) : (
-        <button className="w-12 h-12 flex-none text-gray-600 focus:outline-none" onClick={handlePlay}>
+        <button
+          className="w-12 h-12 flex-none text-gray-600 focus:outline-none"
+          onClick={handlePlay}
+        >
           <PlayIcon />
         </button>
       )}

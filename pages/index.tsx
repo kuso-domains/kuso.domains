@@ -18,6 +18,11 @@ function HomePage() {
     <>
       <Head>
         <title>kuso.domains</title>
+        <meta property="og:title" content="kuso.domains" />
+        <meta property="og:description" content="クソドメイン部" />
+        <meta property="og:url" content="https://kuso.domains" />
+        <meta property="og:image" content="/logo.png" />
+        <meta name="twitter:card" content="summary" />
       </Head>
       <div className="font-din">
         <div className="h-screen w-screen max-w-full">

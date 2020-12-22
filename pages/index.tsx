@@ -13,6 +13,7 @@ const KUSO_DOMAINS = [
   "shinchokuda.me",
   "kyoumoichini.ch",
   "kibishi.me",
+  "mickeymou.se"
 ];
 
 function HomePage() {

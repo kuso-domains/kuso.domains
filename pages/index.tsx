@@ -11,6 +11,7 @@ const KUSO_DOMAINS = [
   "kakkoka.su",
   "dynamicb.one",
   "shinchokuda.me",
+  "kyoumoichini.ch",
 ];
 
 function HomePage() {

@@ -12,6 +12,7 @@ const KUSO_DOMAINS = [
   "dynamicb.one",
   "shinchokuda.me",
   "kyoumoichini.ch",
+  "kibishi.me",
 ];
 
 function HomePage() {

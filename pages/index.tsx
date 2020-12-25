@@ -14,6 +14,7 @@ const KUSO_DOMAINS = [
   "kyoumoichini.ch",
   "kibishi.me",
   "mickeymou.se",
+  "teineina.life",
   "orem.uno",
 ];
 

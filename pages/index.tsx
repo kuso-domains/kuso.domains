@@ -16,6 +16,7 @@ const KUSO_DOMAINS = [
   "mickeymou.se",
   "teineina.life",
   "orem.uno",
+  "iidesuyo.com",
 ];
 
 function HomePage() {

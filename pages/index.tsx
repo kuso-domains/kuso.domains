@@ -17,6 +17,7 @@ const KUSO_DOMAINS = [
   "teineina.life",
   "orem.uno",
   "iidesuyo.com",
+  "sounanokamoshiremasen.ga",
 ];
 
 function HomePage() {

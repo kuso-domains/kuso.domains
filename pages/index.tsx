@@ -18,6 +18,7 @@ const KUSO_DOMAINS = [
   "orem.uno",
   "iidesuyo.com",
   "sounanokamoshiremasen.ga",
+  "yasetai.dev",
 ];
 
 function HomePage() {

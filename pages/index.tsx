@@ -19,6 +19,7 @@ const KUSO_DOMAINS = [
   "iidesuyo.com",
   "sounanokamoshiremasen.ga",
   "yasetai.dev",
+  "nerenai.ga",
 ];
 
 function HomePage() {

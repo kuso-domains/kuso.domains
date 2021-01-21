@@ -22,6 +22,7 @@ const KUSO_DOMAINS = [
   "nerenai.ga",
   "ohayougozaima.su",
   "kuneku.net",
+  "yoroshiku.onegai.shim.earth",
 ];
 
 function HomePage() {

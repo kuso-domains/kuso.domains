@@ -23,6 +23,7 @@ const KUSO_DOMAINS = [
   "ohayougozaima.su",
   "kuneku.net",
   "yoroshiku.onegai.shim.earth",
+  "nasa.so",
 ];
 
 function HomePage() {

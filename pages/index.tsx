@@ -35,7 +35,7 @@ function HomePage() {
         <meta property="og:title" content="kuso.domains" />
         <meta property="og:description" content="クソドメイン部" />
         <meta property="og:url" content="https://kuso.domains" />
-        <meta property="og:image" content="/logo.png" />
+        <meta property="og:image" content="https://kuso.domains/logo.png" />
         <meta name="twitter:card" content="summary" />
       </Head>
       <div className="font-din">

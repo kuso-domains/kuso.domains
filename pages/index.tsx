@@ -25,6 +25,7 @@ const KUSO_DOMAINS = [
   "yoroshiku.onegai.shim.earth",
   "nasa.so",
   "otsu.care",
+  "murida.ga",
 ];
 
 function HomePage() {

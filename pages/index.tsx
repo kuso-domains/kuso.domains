@@ -26,6 +26,7 @@ const KUSO_DOMAINS = [
   "nasa.so",
   "otsu.care",
   "murida.ga",
+  "turup.page",
 ];
 
 function HomePage() {

@@ -27,7 +27,7 @@ const KUSO_DOMAINS = [
   "otsu.care",
   "murida.ga",
   "turup.page",
-  "kusodoma.in"
+  "kusodoma.in",
 ];
 
 function HomePage() {

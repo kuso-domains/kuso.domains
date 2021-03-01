@@ -28,6 +28,7 @@ const KUSO_DOMAINS = [
   "murida.ga",
   "turup.page",
   "kusodoma.in",
+  "absolute-ze.ro",
 ];
 
 function HomePage() {

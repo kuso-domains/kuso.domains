@@ -29,6 +29,7 @@ const KUSO_DOMAINS = [
   "turup.page",
   "kusodoma.in",
   "absolute-ze.ro",
+  "nema.su",
 ];
 
 function HomePage() {

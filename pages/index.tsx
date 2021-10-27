@@ -31,6 +31,7 @@ const KUSO_DOMAINS = [
   "absolute-ze.ro",
   "nema.su",
   "気合い.net",
+  "iihana.si",
 ];
 
 function HomePage() {

@@ -32,6 +32,7 @@ const KUSO_DOMAINS = [
   "nema.su",
   "気合い.net",
   "iihana.si",
+  "ofuton.in",
 ];
 
 function HomePage() {

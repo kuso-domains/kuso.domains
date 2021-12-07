@@ -34,6 +34,7 @@ const KUSO_DOMAINS = [
   "iihana.si",
   "ofuton.in",
   "iyado.su",
+  "metaba.su",
 ];
 
 function HomePage() {

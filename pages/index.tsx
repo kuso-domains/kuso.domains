@@ -33,6 +33,7 @@ const KUSO_DOMAINS = [
   "気合い.net",
   "iihana.si",
   "ofuton.in",
+  "メタバース.live",
 ];
 
 function HomePage() {

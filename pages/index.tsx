@@ -33,9 +33,9 @@ const KUSO_DOMAINS = [
   "気合い.net",
   "iihana.si",
   "ofuton.in",
-  "メタバース.live",
   "iyado.su",
   "metaba.su",
+  "メタバース.live",
 ];
 
 function HomePage() {

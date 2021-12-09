@@ -36,6 +36,7 @@ const KUSO_DOMAINS = [
   "iyado.su",
   "metaba.su",
   "メタバース.live",
+  "owari.shop",
 ];
 
 function HomePage() {

@@ -37,6 +37,7 @@ const KUSO_DOMAINS = [
   "metaba.su",
   "メタバース.live",
   "owari.shop",
+  "mouyuru.site",
 ];
 
 function HomePage() {

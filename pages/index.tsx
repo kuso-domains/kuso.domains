@@ -38,6 +38,7 @@ const KUSO_DOMAINS = [
   "メタバース.live",
   "owari.shop",
   "mouyuru.site",
+  "imanona.si",
 ];
 
 function HomePage() {

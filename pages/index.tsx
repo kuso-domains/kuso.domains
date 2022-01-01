@@ -39,6 +39,7 @@ const KUSO_DOMAINS = [
   "owari.shop",
   "mouyuru.site",
   "imanona.si",
+  "osatou.site",
 ];
 
 function HomePage() {

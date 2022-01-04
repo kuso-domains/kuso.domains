@@ -35,7 +35,7 @@
     "npm-run-all": "4.1.5",
     "postcss": "8.4.5",
     "prettier": "2.5.1",
-    "tailwindcss": "2.2.19",
+    "tailwindcss": "3.0.10",
     "typescript": "4.5.4"
   }
 }

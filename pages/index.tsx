@@ -40,6 +40,7 @@ const KUSO_DOMAINS = [
   "mouyuru.site",
   "imanona.si",
   "osatou.site",
+  "over-sle.pt",
 ];
 
 function HomePage() {

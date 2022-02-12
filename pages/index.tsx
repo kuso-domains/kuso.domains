@@ -41,7 +41,6 @@ const KUSO_DOMAINS = [
   "imanona.si",
   "osatou.site",
   "over-sle.pt",
-  "kusoda.net",
 ];
 
 function HomePage() {

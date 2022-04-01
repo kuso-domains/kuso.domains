@@ -42,6 +42,8 @@ const KUSO_DOMAINS = [
   "osatou.site",
   "over-sle.pt",
   "kusoda.net",
+  "sorehako.ml",
+  "soujyanai.ga",
 ];
 
 function HomePage() {

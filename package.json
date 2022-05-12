@@ -20,7 +20,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@types/node": "16.11.34",
+    "@types/node": "16.11.35",
     "@types/react": "17.0.45",
     "@typescript-eslint/eslint-plugin": "5.23.0",
     "@typescript-eslint/parser": "5.23.0",

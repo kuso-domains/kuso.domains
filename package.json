@@ -22,8 +22,8 @@
   "devDependencies": {
     "@types/node": "16.11.36",
     "@types/react": "17.0.45",
-    "@typescript-eslint/eslint-plugin": "5.24.0",
-    "@typescript-eslint/parser": "5.24.0",
+    "@typescript-eslint/eslint-plugin": "5.25.0",
+    "@typescript-eslint/parser": "5.25.0",
     "autoprefixer": "10.4.7",
     "eslint": "8.15.0",
     "eslint-config-next": "12.1.5",

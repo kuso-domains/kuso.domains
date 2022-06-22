@@ -6,6 +6,6 @@ RUN yarn
 COPY ./ ./
 RUN yarn build
 
-FROM nginx:1.22-alpine
+FROM nginx:1.23-alpine
 
 COPY --from=builder /tmp/build/out /usr/share/nginx/html/

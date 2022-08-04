@@ -44,6 +44,7 @@ const KUSO_DOMAINS = [
   "kusoda.net",
   "sorehako.ml",
   "soujyanai.ga",
+  "yuru.site",
 ];
 
 function HomePage() {

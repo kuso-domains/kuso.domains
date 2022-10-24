@@ -46,6 +46,7 @@ const KUSO_DOMAINS = [
   "soujyanai.ga",
   "yuru.site",
   "kanekae.site",
+  "yoro.cyou",
 ];
 
 function HomePage() {

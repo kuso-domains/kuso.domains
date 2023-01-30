@@ -19,7 +19,6 @@ const KUSO_DOMAINS = [
   "iidesuyo.com",
   "sounanokamoshiremasen.ga",
   "yasetai.dev",
-  "nerenai.ga",
   "ohayougozaima.su",
   "kuneku.net",
   "yoroshiku.onegai.shim.earth",

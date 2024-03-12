@@ -47,6 +47,7 @@ const KUSO_DOMAINS = [
   "yuru.site",
   "kanekae.site",
   "yoro.cyou",
+  "omae.dev",
 ];
 
 function HomePage() {

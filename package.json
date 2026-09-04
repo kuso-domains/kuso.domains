@@ -16,12 +16,12 @@
   },
   "dependencies": {
     "next": "12.1.5",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@types/node": "16.18.126",
-    "@types/react": "17.0.93",
+    "@types/react": "19.2.18",
     "@typescript-eslint/eslint-plugin": "5.62.0",
     "@typescript-eslint/parser": "5.62.0",
     "autoprefixer": "10.5.4",
@@ -31,7 +31,7 @@
     "eslint-config-react": "1.1.7",
     "eslint-formatter-friendly": "7.0.0",
     "eslint-plugin-react": "7.37.5",
-    "eslint-plugin-react-hooks": "4.6.2",
+    "eslint-plugin-react-hooks": "7.1.1",
     "npm-run-all": "4.1.5",
     "postcss": "8.5.28",
     "prettier": "2.8.8",
